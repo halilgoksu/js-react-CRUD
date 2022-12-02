@@ -1,3 +1,2 @@
 # js-react-CRUD
 #Delete
-{}
