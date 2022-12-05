@@ -1,2 +1,1 @@
-# js-react-CRUD
-#Delete
+# js-react-C
